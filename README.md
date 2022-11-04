@@ -2,7 +2,7 @@
 
 Demo for Firebase Auth and OTP login
 
-![ScreenShot](https://github.com/itsSwArchitect/flutter-firebase-Auth-and-OTP/blob/main/screenshots/Screenshot_1667374763.png?raw=true "Sign In")
+![ScreenShot](https://github.com/itsSwArchitect/flutter-firebase-Auth-and-OTP/blob/main/screenshots/Screenshot_1667374763.png?raw=true "Sign In" =250x250)
 
 Sign Up Screen
 
