@@ -1,8 +1,8 @@
 # travelapp
 
-A new Flutter project.
+Demo for Firebase Auth and OTP login
 
-## Getting Started
+![](screenshots/Screenshot_1667374763.pngg)
 
 This project is a starting point for a Flutter application.
 
