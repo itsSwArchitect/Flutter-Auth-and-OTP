@@ -2,7 +2,7 @@
 
 Demo for Firebase Auth and OTP login
 
-![](screenshots/Screenshot_1667374763.pngg)
+![Alt text](https://github.com/itsSwArchitect/flutter-firebase-Auth-and-OTP/blob/main/screenshots/Screenshot_1667374763.png?raw=true "Optional title")
 
 This project is a starting point for a Flutter application.
 
